@@ -2,7 +2,8 @@
 
  #Programming language - C programming
 
-# Description -  1.This Project is the virtual representation of file System.
+# Description -  
+1.This Project is the virtual representation of file System.
 
 2.  File System is considered as the way of storing the information about filesdata from the files into secondary storage device
 
